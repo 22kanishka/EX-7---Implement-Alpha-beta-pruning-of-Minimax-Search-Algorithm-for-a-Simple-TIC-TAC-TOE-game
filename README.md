@@ -78,7 +78,7 @@ print("\nBest move for X:",m)
 
 ```
 <hr>
-<h2>Sample Input and Output:</h2>
+<h2> Output:</h2>
 
 <img width="216" height="133" alt="image" src="https://github.com/user-attachments/assets/94b8735e-152c-4b81-9949-f1a72380a194" />
 
